@@ -1,12 +1,12 @@
-🎵 Réplica do Spotify
-Uma aplicação web desenvolvida em React que simula a interface do Spotify, permitindo a navegação por playlists, álbuns e artistas.
-
-🚀 Tecnologias Utilizadas
+🎵 Réplica do Spotify<br>
+Uma aplicação web desenvolvida em React que simula a interface do Spotify, permitindo a navegação por playlists, álbuns e artistas.<br>
+<br>
+🚀 Tecnologias Utilizadas<br>
 React.js
 Styled Components / Tailwind CSS
 React Router (para navegação)
-API do Spotify (se aplicável)
-📌 Funcionalidades
+API do Spotify (se aplicável)<br><br>
+📌 Funcionalidades<br>
 ✅ Interface inspirada no Spotify
 ✅ Listagem de músicas e álbuns
 ✅ Reprodução de prévias de músicas (se integrado a uma API)
